@@ -98,6 +98,4 @@
                 <p>Aktif dalam komunitas Young On Top</p>
             </div>
         </section>
-    </div>
-</body>
-</html>
+    
