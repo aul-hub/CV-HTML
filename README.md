@@ -42,7 +42,7 @@
                 <p>SMAN Cilegon 2020-2023 - Jurusan IPA</p>
                 <p>STTIKOM Insan Unggul 2023-Sekarang - Program Studi Teknik Informatika</p>
             </div>
-        </section>
+      
 
         <section>
             <div class="title">
