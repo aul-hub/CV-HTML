@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="en">
 <head>                                                                                                                                                          
     <meta charset="UTF-8">
@@ -6,6 +5,8 @@
     <title>CV Evi Aulia</title>
 </head>
 <body>
+</body>
+</section>
     <div class="container">
         <div class="main">
             <div class="foto">
