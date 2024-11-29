@@ -9,7 +9,7 @@
     <div class="container">
         <div class="main">
             <div class="foto">
-                <img src="img/aul.jpg" alt="Aul" width="100px" />
+                <img src="aul.jpg" alt="Aul" width="100px" />
             </div>
             <div class="aboutme">
                 <h1>Evi Aulia</h1>
