@@ -22,7 +22,7 @@
             <div class="clear"></div>
         </div>
 
-        <section>
+    
             <div class="title">
                 <h2>Kontak</h2>
             </div>
