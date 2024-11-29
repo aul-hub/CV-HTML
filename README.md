@@ -6,7 +6,7 @@
 </head>
 <body>
 </body>
-</section>
+<section>
     <div class="container">
         <div class="main">
             <div class="foto">
