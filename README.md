@@ -30,7 +30,7 @@
                 <p>auliavi@IT.ac.id</p> 
                 <p>087832119473</p>
             </div>
-        </section>
+     
 
         <section>
             <div class="title">
